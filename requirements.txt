@@ -1,0 +1,6 @@
+pandas
+numpy
+requests
+websocket-client
+python-dotenv
+google-cloud-secret-manager
